@@ -227,6 +227,7 @@ header .showTime {
   left: 0;
   width: 100%;
   height: 10.125rem;
+  z-index: 99;
 }
 @keyframes rotate1 {
   0% {
